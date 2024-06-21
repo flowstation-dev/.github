@@ -1,2 +1,2 @@
-# .github
-meta
+# flowstation.dev
+an ai writing tool
